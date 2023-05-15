@@ -1,0 +1,38 @@
+.sj{
+    
+    border-radius: 15px;
+    height: 85px;
+    width: 100%;
+    font-weight: bold;
+    box-shadow: 4px 6px 1px #575757;
+    font-weight: bold;
+}
+.sj:hover{
+    transform: scale(1.02);
+    z-index: 3;
+    background-color:#ffab40;
+    box-shadow: 4px 6px 10px #313030;
+    
+}
+
+
+.sm{
+   
+    
+    height: 85px;
+    width: 100%;
+    border-radius: 15px;
+    font-weight: bold;
+    box-shadow: 4px 6px 13px #2d2d2d;
+
+    
+}
+.sm:hover{
+    transform: scale(1.02);
+    z-index: 3;
+    background-color: #fd584c;
+    box-shadow: 4px 6px 10px #313030;
+    
+    
+    
+}   
